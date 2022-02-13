@@ -1,0 +1,33 @@
+/*
+
+    HUGOC'S STYLESHEET
+
+*/
+
+html {scroll-behavior: smooth;}
+
+/*MEDIA QUERIES: utilizada sólo para retocar un desplazamiento*/
+@media screen and (max-width:800px){
+    
+    #ropa{
+        padding-top: 0px;
+    }
+
+}
+
+@media screen and (max-width: 1800px) {
+
+    #ropa{
+        padding-top: 80px;
+    }
+    
+}
+
+@media screen and (max-width:600px){
+
+    #ropa{
+        padding-top: 0px;
+    }
+
+}
+
